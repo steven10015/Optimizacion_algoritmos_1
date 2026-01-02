@@ -4,7 +4,7 @@
 		"es": "Proyecto de Optimización de Algoritmos para Aprendizaje Automático"
 	},
 	"slug" : "algorithm-optimization-project-machine-learning",
-	"preview": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/blob/main/preview.jpeg?raw=true",
+	"preview": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/blob/main/preview.png?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/tree/main/notebook/solutions.ipynb",
 	"technologies": ["big-o", "python", "algorithms", "matplotlib", "scipy", "machine learning", "data science"],
 	"difficulty": "beginner",
